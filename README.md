@@ -2,10 +2,6 @@
 
 A multi-agent conversational system simulating playful arguments between elementary school students using DeepSeek API. Features dynamic role-playing, turn-based dialogue, and automated judging with scoring.
 
-## 🌟 Project Showcase
-![Battle Simulation Workflow](https://via.placeholder.com/800x400.png?text=Battle+Agent+Workflow)
-*(Example workflow visualization - replace with actual screenshot)*
-
 ## 🔥 Core Features
 - **Multi-Agent Workflow**: Two characters battle using distinct combat styles
 - **Turn-Based Dialogue**: Simulates creative arguments through multiple rounds
